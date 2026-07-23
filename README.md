@@ -5,7 +5,7 @@ I spent my early years actively fleeing anything involving maths, structure, or 
 ## The vibe
 
 - 🔦 I like poking at new technologies just to see what they do - no roadmap, no five-year plan, just "huh, what if"
-- 💡 I get my best ideas at 6am, on account of being an early riser. While everyone else is having their profound 2am realizations, I am fast asleep, decidedly not a night owl, unbothered.
+- 💡 I get my best ideas at 6am, on account of being an early riser. While everyone else is having their profound 2am realizations, I am fast asleep, decidedly not a night owl.
 - 🐰 Ipsos didn't just teach me data pipelines, it introduced me to Python's endless possibilities and to my very best friend, Claude
 - 🎲 I build things because I want them to exist, not because they're strategic
 
