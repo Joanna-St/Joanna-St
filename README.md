@@ -14,6 +14,7 @@ I spent my early years actively fleeing anything involving maths, structure, or 
 - [**Vibes-Based Name Rater**](https://github.com/Joanna-St/Name_Rating_Exercise) - deployed on Streamlit, because not every project needs to justify itself
 - [**Synthetic Customer Data Pipeline**](https://github.com/Joanna-St/Synthetic_Data_Exercise) - an end-to-end pipeline generating and processing synthetic customer data
 - [**The Grove**](https://github.com/Joanna-St/the-grove) - idle, cozy Pygame creature sanctuary, still in progress; I do the creative direction and world-building, Claude does the actual code work
+- [**Website Scraping Pipeline**](https://github.com/Joanna-St/Scraping_Exercise) - an end-to-end pipeline generating a dashboard based on post data scraped from Hacker News
 - [**Data Comparison Tool**](https://github.com/Joanna-St/Data_Comparison_Tool) - Streamlit app comparing CSV datasets, still in progress
 
 ## Currently experimenting with
