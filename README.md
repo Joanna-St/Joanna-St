@@ -1,6 +1,7 @@
 # Hi, I'm Joanna 👋
 
 I spent my early years actively fleeing anything involving maths, structure, or logic - fled so hard I ended up with a **Master's in Law** just to avoid it. Then I got a data management job at Ipsos, fell face-first into Python, and now I have a repo full of evidence that I lost that fight completely.
+These days I’m a **Technical Business Expert** at Commerzbank, which sounds like less code, and on paper it is. In practice I’m still regularly up to my ears in it, on and off the clock.
 
 ## The vibe
 
